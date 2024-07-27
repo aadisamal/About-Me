@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(164, 103, 123);
+}
+
+h1 {
+    color: lightgreen;
+}
+
+h2 {
+    color:lightblue ;
+}
+
+p {
+    font-size: large;
+}
+
+img {
+    width: 50%;
+    height: 400px;
+}
